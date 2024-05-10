@@ -17,7 +17,7 @@ Ruby on Rails (version 7.1.3)
 
 Download rails-  use the $ gem install rails
 
-Dowload MySql package- 
+Download MySql package- 
 sudo apt install libmariadb-dev
 bundle install
 
@@ -36,22 +36,22 @@ Have this running on the server- rails s -b 0.0.0.0
 # Running the App
 run the following command- “rails s -b 0.0.0.0 ”
 
-Now you access the app in your web browser at : http://54.227.230.8:3000
+Now you access the app in your web browser at: http://54.227.230.8:3000
 
 # Goals: 
 Our goal with this project is to provide users with an intuitive platform to track their fitness journey effectively. Key objectives include:
 
-Enable users to log their daily steps, calories, water intake.
+Enable users to log their daily steps, calories, and water intake.
 
-Allow users to keep track of their weight, height and personal information such as age
+Allow users to keep track of their weight, height, and personal information such as age
 
 Allows users to log in hours of their runs and sleep 
 
-Allows users to keep log of hours of cardio, stretching, treadmill and strenghtening 
+Allows users to keep a log of hours of cardio, stretching, treadmill, and strengthening 
 
 Allow users to set personal fitness goals such as weight loss and track their progress over time
 
-Allows users to pick a variety of workouts in three different intensity levels- Easy, Medium and Hard
+Allows users to pick a variety of workouts in three different intensity levels- Easy, Medium, and Hard
 
 Provides visualizations and insights to help users analyze their fitness data and make informed decisions.
 
@@ -66,9 +66,9 @@ Users can log their daily workouts, specifying the type of exercise, duration, a
 Workouts are categorized by activity type (e.g., cardio, strengthening ) for easy organization.
 
 Goal Setting:
-Users can set personal fitness goals, such as weight loss, sleep or cardio
+Users can set personal fitness goals, such as weight loss, sleep, or cardio
 Goals can be customized based on duration and desired outcomes.
 
 Progress Monitoring:
-Users can view their progress over time through looking at previously logged input
-Metrics such as weight, body measurements, and workout frequency are logged and saved
+Users can view their progress over time by looking at previously logged input
+Metrics such as weight, height, and workout frequency are logged and saved
